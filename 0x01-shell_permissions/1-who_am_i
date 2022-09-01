@@ -1,2 +1,2 @@
 #!/bin/bash
-id -u --name betty
+id -u --name root
